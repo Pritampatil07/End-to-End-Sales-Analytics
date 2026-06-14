@@ -4,12 +4,12 @@
 This project demonstrates end-to-end sales analytics using Excel, Power BI, and SQL.
 
 The dashboard provides insights into:
-- Sales Performance
-- Profit Analysis
-- Customer Segmentation
-- Regional Performance
-- Product Analysis
-- Sales Forecasting
+- Sales Performance Analysis
+- Profitability Analysis
+- Customer Segmentation & Behavior
+- Regional Performance Analysis
+- Product Performance Analysis
+- Sales Trend & Forecasting
 
 ## Tools & Technologies
 - Power BI
