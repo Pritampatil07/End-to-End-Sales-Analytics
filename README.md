@@ -88,3 +88,7 @@ Sample Superstore Dataset
 ## Author
 **Pritam Patil**  
 Aspiring Data Analyst | Power BI Developer
+
+📧 Email: 2210prit@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/pritam-patil-data
+🔗 GitHub: https://github.com/Pritampatil07
